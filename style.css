@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+main{
+    position: relative;
+  top: 5rem;
+
+}
+.header{
+    color: white;
+}
+.hexa{
+    color: white;
+}
+.hexa{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+button{
+    padding: 10px 50px;
+  background: #dd9d05;
+  cursor: pointer;
+}
